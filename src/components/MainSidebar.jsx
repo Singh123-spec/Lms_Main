@@ -14,5 +14,5 @@ export default function MainSidebar({ isOpen }) {
     return <StudentSidebar isOpen={isOpen} />;
   }
 
-  return null; // No sidebar on Landing Page
+  return null; 
 }
